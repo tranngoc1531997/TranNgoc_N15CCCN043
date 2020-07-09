@@ -1,0 +1,10 @@
+#uploadHotelAvatar{
+    display: none;
+}
+.custom-file-upload {
+    cursor: pointer;
+}
+.room-image .image{
+    min-height: 249px !important;
+    max-height: 250px !important;
+}
